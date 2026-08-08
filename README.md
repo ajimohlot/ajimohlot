@@ -100,7 +100,7 @@ Skills demonstrated:
 
 🔗 Repository
 
-https://github.com/ajimohlot/IT-Home-Lab
+https://github.com/ajimohlot/IT-Home-Lab/tree/main/Project-01-RAM-Upgrade
 
 ---
 
@@ -161,7 +161,7 @@ https://github.com/ajimohlot
 
 ### LinkedIn
 
-(www.linkedin.com/in/ajimoh-lot-it-support)
+www.linkedin.com/in/ajimoh-lot-it-support
 
 ---
 
