@@ -84,23 +84,59 @@ My goal is to combine real-world support experience with hands-on infrastructure
 
 ---
 
-# 🚀 Current Project
+# 🚀 Featured Projects
 
-## ✅ Project 01 – HP EliteBook 840 G6 RAM Upgrade
+## 🖥️ Windows Server 2022 Active Directory Home Lab
 
-Upgraded my enterprise home lab workstation from **8GB** to **24GB DDR4 RAM** to prepare it for virtualization and enterprise infrastructure labs.
+Built a Windows Server 2022 domain environment in Hyper-V, including virtual networking, Active Directory Domain Services deployment, DNS configuration, and network and DNS troubleshooting.
 
-Skills demonstrated:
+**Skills demonstrated:**
+
+- Windows Server 2022
+- Hyper-V
+- Active Directory Domain Services
+- DNS
+- TCP/IP and network troubleshooting
+- Windows Firewall
+- PowerShell
+- Technical Documentation
+
+🔗 [View Project](https://github.com/ajimohlot/Active-Directory)
+
+---
+
+## 🛠️ Active Directory Administration & Troubleshooting Home Lab
+
+Extended the domain environment into a practical IT support lab covering Active Directory administration, Windows 11 domain integration, Group Policy, user access, and account troubleshooting.
+
+**Skills demonstrated:**
+
+- OU, user, and security group administration
+- PowerShell Active Directory administration
+- Windows 11 domain joining
+- Group Policy configuration and testing
+- Password and authentication troubleshooting
+- Account lockout diagnosis and recovery
+- Security group membership troubleshooting
+- Share and NTFS permissions
+- Disabled account troubleshooting
+
+🔗 [View Project](https://github.com/ajimohlot/Active-Directory/tree/main/project-3-ad-administration-troubleshooting)
+
+---
+
+## 💻 HP EliteBook 840 G6 RAM Upgrade
+
+Upgraded my home lab workstation from **8GB to 24GB DDR4 RAM** to support virtualization and infrastructure labs.
+
+**Skills demonstrated:**
 
 - Hardware Installation
 - Windows Verification
-- Technical Documentation
-- GitHub Documentation
 - Troubleshooting
+- Technical Documentation
 
-🔗 Repository
-
-https://github.com/ajimohlot/IT-Home-Lab/tree/main/Project-01-RAM-Upgrade
+🔗 [View Project](https://github.com/ajimohlot/IT-Home-Lab/tree/main/Project-01-RAM-Upgrade)
 
 ---
 
