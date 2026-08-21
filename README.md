@@ -144,34 +144,28 @@ Upgraded my home lab workstation from **8GB to 24GB DDR4 RAM** to support virtua
 
 ## ✅ Completed
 
-- HP EliteBook RAM Upgrade
+- HP EliteBook 840 G6 RAM Upgrade
+- Windows Server 2022 Installation & Hyper-V Configuration
+- Windows Server Network & Firewall Troubleshooting
+- Active Directory Domain Services Deployment
+- DNS Configuration & Troubleshooting
+- Organisational Unit (OU) Design & Management
+- User & Security Group Administration
+- PowerShell-based Active Directory Administration
+- Windows 11 Deployment & Domain Join
+- Group Policy Configuration & Testing
+- Active Directory User Account Troubleshooting
+- Security Group & Shared Folder Access Troubleshooting
 
 ## 🔄 In Progress
 
-- Windows Server 2022 Installation
+- Microsoft 365 Administration Home Lab
 
-## 📅 Upcoming
-
-- Active Directory Domain Services
-
-- Organizational Units
-
-- User & Group Management
-
-- DNS
-
-- DHCP
-
-- Group Policy
-
-- Windows 11 Domain Join
+## 🗓️ Upcoming
 
 - Microsoft Entra ID
-
 - Microsoft Intune
-
-- Microsoft 365 Administration
-
+- DHCP Administration
 - PowerShell Automation
 
 ---
