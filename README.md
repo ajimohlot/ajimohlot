@@ -172,14 +172,14 @@ Upgraded my home lab workstation from **8GB to 24GB DDR4 RAM** to support virtua
 
 # 🎯 Career Objective
 
-I'm seeking opportunities as an:
+I'm currently seeking opportunities in:
 
 - IT Support Engineer
 - Helpdesk Analyst
 - Desktop Support Engineer
-- IT Analyst
+- IT Support Analyst
 
-where I can contribute strong troubleshooting, customer support and Microsoft infrastructure skills while continuing to grow within enterprise IT.
+I'm particularly interested in roles where I can apply my experience in Windows support, Microsoft 365, Active Directory, endpoint administration and troubleshooting while continuing to develop my skills across Microsoft enterprise technologies.
 
 ---
 
