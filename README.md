@@ -142,7 +142,7 @@ Upgraded my home lab workstation from **8GB to 24GB DDR4 RAM** to support virtua
 
 # 🗺️ Home Lab Roadmap
 
-## ✅ Completed
+## ✅ Completed Projects
 
 - HP EliteBook 840 G6 RAM Upgrade
 - Windows Server 2022 Installation & Hyper-V Configuration
@@ -156,17 +156,17 @@ Upgraded my home lab workstation from **8GB to 24GB DDR4 RAM** to support virtua
 - Group Policy Configuration & Testing
 - Active Directory User Account Troubleshooting
 - Security Group & Shared Folder Access Troubleshooting
+- Microsoft 365 Administration, Entra ID & Intune Home Lab
 
 ## 🔄 In Progress
 
-- Microsoft 365 Administration Home Lab
+- Microsoft Entra ID & Intune Zero Trust Security Lab
 
 ## 🗓️ Upcoming
 
-- Microsoft Entra ID
-- Microsoft Intune
+- Azure Networking & Secure Remote Access Lab
 - DHCP Administration
-- PowerShell Automation
+- PowerShell Administration
 
 ---
 
