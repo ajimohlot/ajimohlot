@@ -311,17 +311,8 @@ The upgrade included pre-upgrade verification, hardware installation and post-up
 ## ✅ Completed Projects
 
 - HP EliteBook 840 G6 RAM Upgrade
-- Windows Server 2022 Installation & Hyper-V Configuration
-- Windows Server Network & Firewall Troubleshooting
-- Active Directory Domain Services Deployment
-- DNS Configuration & Troubleshooting
-- Organisational Unit (OU) Design & Management
-- User & Security Group Administration
-- PowerShell-Based Active Directory Administration
-- Windows 11 Deployment & Domain Join
-- Group Policy Configuration & Testing
-- Active Directory User Account Troubleshooting
-- Security Group & Shared Folder Access Troubleshooting
+- Windows Server 2022 & Hyper-V Home Lab
+- Active Directory Administration & Troubleshooting Home Lab
 - Microsoft 365 Administration, Entra ID & Intune Home Lab
 - Microsoft Entra ID & Intune Zero Trust Security Lab
 
